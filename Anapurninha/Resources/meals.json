@@ -1,0 +1,184 @@
+[
+    {
+        "category": "BREAKFAST",
+        "meals": {
+            "fruits": [
+                {
+                    "id": 1,
+                    "name": "Banana",
+                    "description": "",
+                    "containsDairy": false,
+                    "containsGluten": false,
+                    "containsSugar": false
+                }
+            ],
+            "main": [
+                {
+                    "id": 2,
+                    "name": "Eggs",
+                    "description": "",
+                    "containsDairy": false,
+                    "containsGluten": false,
+                    "containsSugar": false
+                },
+                {
+                    "id": 3,
+                    "name": "Roasted Potatoes",
+                    "description": "",
+                    "containsDairy": false,
+                    "containsGluten": false,
+                    "containsSugar": false
+                }
+            ],
+            "dessert": [
+                {
+                    "id": 4,
+                    "name": "Cinnamon Muffin",
+                    "description": "",
+                    "containsDairy": true,
+                    "containsGluten": true,
+                    "containsSugar": true
+                }
+            ],
+            "soup": []
+        }
+    },
+    {
+        "category": "LUNCH",
+        "meals": {
+            "fruits": [
+                {
+                    "id": 11,
+                    "name": "Orange",
+                    "description": "",
+                    "containsDairy": false,
+                    "containsGluten": false,
+                    "containsSugar": false
+                },
+                {
+                    "id": 12,
+                    "name": "Apple",
+                    "description": "",
+                    "containsDairy": false,
+                    "containsGluten": false,
+                    "containsSugar": false
+                }
+            ],
+            "main": [
+                {
+                    "id": 5,
+                    "name": "Red Sauce",
+                    "description": "",
+                    "containsDairy": false,
+                    "containsGluten": false,
+                    "containsSugar": true
+                },
+                {
+                    "id": 6,
+                    "name": "Pasta",
+                    "description": "",
+                    "containsDairy": false,
+                    "containsGluten": true,
+                    "containsSugar": false
+                }
+            ],
+            "dessert": [
+                {
+                    "id": 9,
+                    "name": "Banana Cake",
+                    "description": "",
+                    "containsDairy": true,
+                    "containsGluten": true,
+                    "containsSugar": false
+                },
+                {
+                    "id": 10,
+                    "name": "Yoghurt",
+                    "description": "",
+                    "containsDairy": true,
+                    "containsGluten": false,
+                    "containsSugar": true
+                }
+            ],
+            "soup": [
+                {
+                    "id": 7,
+                    "name": "Dahl",
+                    "description": "",
+                    "containsDairy": false,
+                    "containsGluten": false,
+                    "containsSugar": false
+                },
+                {
+                    "id": 8,
+                    "name": "Pea soup",
+                    "description": "",
+                    "containsDairy": false,
+                    "containsGluten": false,
+                    "containsSugar": false
+                }
+            ]
+        }
+    },
+    {
+        "category": "DINNER",
+        "meals": {
+            "fruits": [
+                {
+                    "id": 18,
+                    "name": "Banana",
+                    "description": "",
+                    "containsDairy": false,
+                    "containsGluten": false,
+                    "containsSugar": false
+                }
+            ],
+            "main": [
+                {
+                    "id": 15,
+                    "name": "Rice",
+                    "description": "",
+                    "containsDairy": false,
+                    "containsGluten": true,
+                    "containsSugar": false
+                },
+                {
+                    "id": 16,
+                    "name": "Broccoli",
+                    "description": "",
+                    "containsDairy": false,
+                    "containsGluten": false,
+                    "containsSugar": false
+                }
+            ],
+            "dessert": [
+                {
+                    "id": 17,
+                    "name": "Ice Cream",
+                    "description": "",
+                    "containsDairy": true,
+                    "containsGluten": false,
+                    "containsSugar": true
+                }
+            ],
+            "soup": [
+                {
+                    "id": 13,
+                    "name": "Dahl",
+                    "description": "",
+                    "containsDairy": false,
+                    "containsGluten": false,
+                    "containsSugar": false
+                },
+                {
+                    "id": 14,
+                    "name": "Pea soup",
+                    "description": "",
+                    "containsDairy": false,
+                    "containsGluten": false,
+                    "containsSugar": false
+                }
+            ]
+        }
+    }
+]
